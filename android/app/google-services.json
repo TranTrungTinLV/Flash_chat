@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128569427337",
+    "project_id": "flash-chat-a3142",
+    "storage_bucket": "flash-chat-a3142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128569427337:android:5a41af1cf67c4d9ec78d58",
+        "android_client_info": {
+          "package_name": "co.appflashchatLevi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128569427337-gu6p0d7720sn106fvb8q39ba52qa15le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRhRAdxGruiq1t45KOvGsHMg_P7lbPlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128569427337-gu6p0d7720sn106fvb8q39ba52qa15le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
